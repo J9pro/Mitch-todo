@@ -22,5 +22,5 @@ function addInput() {
 }
 
 function clear() {
-    document.querySelectorAll('input').value = " "
+    document.querySelector('input').value = " "
 }
